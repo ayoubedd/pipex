@@ -31,7 +31,7 @@ This will result in a program called `pipex`.
 
 ## Usage
 
-`pipex` is used like the following.
+`pipex` is intended to be used like this:
 
 ```
 usage: ./pipex

@@ -53,7 +53,6 @@ This will result in a file call `out` containing all lines containing the word r
 ## Notes
 
 - You can compile the project using bonus recipe to be able run a variable number of commands.
- - example: `./pipex /etc/passwd "grep bash" "grep root" cat out`
 
 ## Lisence
 
